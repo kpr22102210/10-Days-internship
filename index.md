@@ -172,6 +172,7 @@ void loop() {
 > Arduino 
 1. Programming the arduino for the 7 segment display with pot 
 2. adjusting the speed of the display by varing the pot
+
 ** program **
 ```
 // C++ code
