@@ -125,10 +125,10 @@ void loop()
 **AI & ML** 
 > STM 32 NUCLEO DEVELOPMENT BOARD
  
-![IMAGE](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Untitled.jpeg)
-1. the board is programmeble
+![IMAGE](https://github.com/kpr22102210/10-Days-internship/blob/main/img/stm32.jpg)
+1. The board is programmeble
 2. Can program th board by nucleo software
-3. it can build a sound detecting device by using microphone sensor 
+3. It can build a sound detecting device by using microphone sensor 
 
 # Day-5
 > Introducing drones by NAVANEETH 3rd year student of robotics
