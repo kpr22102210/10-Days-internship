@@ -284,9 +284,11 @@ void loop()
 introduced the arduino interface with various components 
 # Day-10
 > mini project 
+1. my project was a battery level indicator using arduino and LCD panel
+2.  [Tinker the circuit](https://www.tinkercad.com/things/acrHOSb0Io0-battery-level-indiactor/editel)
 
-1.my project was a battery level indicator using arduino and LCD panel
-2.[Tinker the circuit](https://www.tinkercad.com/things/acrHOSb0Io0-battery-level-indiactor/editel)
+
+
 **program**
 ```
 #include <LiquidCrystal.h>
@@ -308,7 +310,7 @@ int ledPins[] = {
 
 };       // an array of pin numbers to which LEDs are attached
 
-int pinCount = 10;           // the number of pins (i.e. the length of the array)
+int pinCount = 10;          
 
 
 void setup()
