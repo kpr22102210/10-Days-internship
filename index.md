@@ -169,7 +169,7 @@ void loop() {
 ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
 # Day-8
-> Arduino 
+> Arduino with analog
 1. Programming the arduino for the 7 segment display with pot 
 2. adjusting the speed of the display by varing the pot [thinker the circuit](https://www.tinkercad.com/things/7hNg1XcCvKV-copy-of-fantastic-gaaris-jaiks/editel)  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-18%2010-51-29.png)
 
@@ -276,6 +276,8 @@ void loop()
   delay(potValue); // Wait for 1000 millisecond(s)
 }
 ```
+# Day-9
+> Arduino interface LCD 
 
 
 
