@@ -2,7 +2,7 @@
 > Battery level indicator 
 1. To create Battery level indicator using arduino with [Tinkercad](https://www.tinkercad.com/)
 2. [Related circuit](https://www.tinkercad.com/things/acrHOSb0Io0-battery-level-indiactor/editel)
-3. related image
+3. Related image ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-20%2012-09-19.png)
 4. **Program**
 ```
 #include <LiquidCrystal.h>
