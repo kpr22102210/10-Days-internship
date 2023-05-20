@@ -286,6 +286,7 @@ introduced the arduino interface with various components
 > mini project 
 1. my project was a battery level indicator using arduino and LCD panel
 2.  [Tinker the circuit](https://www.tinkercad.com/things/acrHOSb0Io0-battery-level-indiactor/editel)
+3.  [**Assignment Link**](https://github.com/kpr22102210/10-Days-internship/blob/main/assignment.md)
 
 
 
